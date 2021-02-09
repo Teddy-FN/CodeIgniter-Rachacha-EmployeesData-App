@@ -1,0 +1,22 @@
+body {
+    background-image: url('https://images.squarespace-cdn.com/content/5ea237e587e03021f9ef8cc2/1591632880736-D21GFME5UQJ4JFB69H3R/Group-members.jpg?format=1500w&content-type=image%2Fjpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 0 90px;
+}
+header {
+    background: rgba(0, 0, 0, 0.5);
+}
+.display-4 {
+    margin-top: 30px;
+    text-align: center;
+}
+.lead{
+    text-align: center;
+}
+form{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+
